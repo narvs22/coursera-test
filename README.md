@@ -6,7 +6,6 @@
 <body>
 <h2>Why did the Higgs Boson go to church?</h1>
 
-For the mass.
 
 </body>
 </html>
