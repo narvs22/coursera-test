@@ -4,9 +4,6 @@
 <html>
 <meta charset="utf-8">
 <body>
-<h2>Why did the Higgs Boson go to church?</h1>
-
-For the mass.
-
+<h2>Wit beyond measure is man's greatest treasure.</h1>
 </body>
 </html>
